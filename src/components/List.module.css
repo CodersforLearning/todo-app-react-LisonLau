@@ -1,0 +1,19 @@
+.list {
+    background-color: #EEEEEE;
+    margin: 20px auto;
+    padding: 20px 30px;
+    max-width: 700px;
+    height: 700px;
+    border-radius: 10px;
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.2), 0 1px 10px 0 rgba(0,0,0,0.19);
+}
+
+.header {
+    color: #5B6281;
+    margin: auto;
+}
+
+.todolist {
+    list-style: none;
+    padding: 0px;
+}
